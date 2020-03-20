@@ -1,7 +1,7 @@
 module OpenColor
   using ColorTypes
 
-  export OCGRAY, OCRED, OCRED, OCPINK,
+  export OCGRAY, OCRED, OCPINK, OCGRAPE,
     OCVIOLET, OCINDIGO, OCBLUE, OCCYAN,
     OCTEAL, OCGREEN, OCYELLOW, OCORANGE
 
